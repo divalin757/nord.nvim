@@ -490,7 +490,7 @@ theme.loadPlugins = function()
 
 		-- Telescope
 		TelescopePromptBorder = { fg = nord.nord9_gui },
-		TelescopeResultsBorder = { fg = nord.nord4_gui },
+		TelescopeResultsBorder = { fg = nord.nord9_gui },
 		TelescopePreviewBorder = { fg = nord.nord9_gui },
 		TelescopeSelectionCaret = { fg = nord.nord9_gui },
 		TelescopeSelection = { fg = nord.nord6_gui, bg = nord.nord2_gui },
