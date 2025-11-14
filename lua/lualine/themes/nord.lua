@@ -9,7 +9,7 @@ nord.normal = {
 }
 
 nord.insert = {
-	a = { fg = colors.nord1_gui, bg = colors.nord4_gui },
+	a = { fg = colors.nord1_gui, bg = colors.nord14_gui },
 	b = { fg = colors.nord6_gui, bg = colors.nord2_gui },
 	y = {  fg = colors.nord5_gui, bg = colors.nord2_gui },
 }
