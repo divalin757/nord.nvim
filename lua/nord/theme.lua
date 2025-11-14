@@ -75,7 +75,7 @@ theme.loadEditor = function()
 
 	local editor = {
 		NormalFloat = { fg = nord.nord4_gui, bg = nord.float }, -- normal text and background color
-		FloatBorder = { fg = nord.nord4_gui, bg = nord.float }, -- normal text and background color
+		FloatBorder = { fg = nord.nord9_gui, bg = nord.float }, -- normal text and background color
 		ColorColumn = { fg = nord.none, bg = nord.nord1_gui }, -- used for the columns set with 'colorcolumn'
 		Conceal = { fg = nord.nord1_gui }, -- placeholder characters substituted for concealed text (see 'conceallevel')
 		Cursor = { fg = nord.nord4_gui, bg = nord.none, style = "reverse" }, -- the character under the cursor
