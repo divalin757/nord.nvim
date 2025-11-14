@@ -190,10 +190,10 @@ theme.loadEditor = function()
 
 	--Set transparent background
 	if vim.g.nord_disable_background then
-		editor.Normal = { fg = nord.nord4_gui, bg = nord.none } -- normal text and background color
+		editor.Normal = { fg = nord.nord5_gui, bg = nord.none } -- normal text and background color
 		editor.SignColumn = { fg = nord.nord4_gui, bg = nord.none }
 	else
-		editor.Normal = { fg = nord.nord4_gui, bg = nord.nord0_gui } -- normal text and background color
+		editor.Normal = { fg = nord.nord5_gui, bg = nord.nord0_gui } -- normal text and background color
 		editor.SignColumn = { fg = nord.nord4_gui, bg = nord.nord0_gui }
 	end
 
