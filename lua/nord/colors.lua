@@ -22,7 +22,7 @@ local dark_colors = {
 }
 
 local light_colors = {
-	nord0_gui = named_colors.white, -- nord0 in palette
+	nord0_gui = named_colors.glacier, -- nord0 in palette
 	nord1_gui = named_colors.darker_white, -- nord1 in palette
 	nord2_gui = named_colors.darkest_white, -- nord2 in palette
 	nord3_gui = named_colors.light_gray, -- nord3 in palette
