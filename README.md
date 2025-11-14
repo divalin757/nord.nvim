@@ -1,5 +1,6 @@
+# divalin757/nord.nvim
 
-# shaunsingh/nord.nvim
+## a fork of shaunsingh/nord.nvim
 
 ## Neovim theme based off of the [Nord Color Palette.](https://www.nordtheme.com/docs/colors-and-palettes)
 
