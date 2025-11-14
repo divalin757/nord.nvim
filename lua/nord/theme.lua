@@ -20,6 +20,7 @@ theme.loadSyntax = function()
 	-- Syntax highlight groups
 	return {
 		Type = { fg = nord.nord9_gui }, -- int, long, char, etc.
+		WinSeparator = { fg = nord.nord0_gui, bg = nord.nord0_gui },
 		StorageClass = { fg = nord.nord9_gui }, -- static, register, volatile, etc.
 		Structure = { fg = nord.nord9_gui }, -- struct, union, enum, etc.
 		Constant = { fg = nord.nord4_gui }, -- any constant
