@@ -7,7 +7,9 @@
 
 ## Features
 
-Nord.nvim is meant to be a modern colorscheme written in lua for NeoVim that supports a lot of the new features
+This fork of Nord.nvim is meant to fix a lot of color issues i didnt like about the original colorscheme 
+i generaly didnt change much only the lualine insert color and the border color but if i see more stuff 
+that i dont like i will change it
 added to NeoVim like built-in LSP and [TreeSitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 + Supported plugins:
